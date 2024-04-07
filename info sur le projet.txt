@@ -1,0 +1,11 @@
+<Coder un jour,Coder pour toujours!\>
+
+///Developed By JARI Toljah
+
+<Instructions\>
+- Install the Requirements: pip install -r requirements.txt
+- Ensuite, migrations des bases de données: python manage.py makemigrations
+- Puis : python manage.py migrate
+- Et enfin, executé l'application: python manage.py runserver
+
+Pour l'Admin, créer un superuser!
